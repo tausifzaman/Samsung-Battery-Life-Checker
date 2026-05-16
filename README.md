@@ -6,6 +6,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/logo.png" width="500px;">
     <img alt="Samsung Battery Life Checker Logo" src="https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/logo.png" width="500px;">
   </picture>
+</div>
 
 <div align="center">
 
