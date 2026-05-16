@@ -2,9 +2,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tausifzaman/Samsung-Battery-Life-Checker/assets/logo.png" width="500px;">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Samsung-Battery-Life-Checker/noir/assets/13212227/0577860e-3d7e-4294-8f1f-dc7b87ce2b2b" width="500px;">
-    <img alt="Samsung Battery Life Checker Logo" src="https://github.com/tausifzaman/Samsung-Battery-Life-Checker/assets/logo.png" width="500px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/logo.png" width="500px;">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/logo.png" width="500px;">
+    <img alt="Samsung Battery Life Checker Logo" src="https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/logo.png" width="500px;">
   </picture>
 
 <div align="center">
