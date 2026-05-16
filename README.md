@@ -139,12 +139,9 @@ adb install app-arm64-v8a-release.apk
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots inside the /screenshots folder and update these paths -->
-
 | Home Screen | Battery Health | Capacity Info |
 |:-----------:|:--------------:|:-------------:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
-
+| ![](https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/home.jpg) | ![](https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/battery.jpg) | ![](https://raw.githubusercontent.com/tausifzaman/Samsung-Battery-Life-Checker/refs/heads/main/assets/capacity.jpg) |
 ---
 
 ## 🤔 Why Not Use Play Store Battery Apps?
